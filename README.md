@@ -10,17 +10,22 @@
 
 ## Use it
 
-1. Start RDJ on the PC and open Rekordbox 7.
+1. Start RDJ on the PC and open Rekordbox 7 **full screen** (maximised).
 2. Open RDJ on the tablet - it finds the PC by itself. Approve the tablet once on the PC.
 3. On the PC: press REFRESH, pick WAVEFORM, FX and TRACKLIST and drag a box round each on the preview, then SAVE.
    RESET clears the boxes so you can draw them again.
+
+> **Important: keep Rekordbox full screen.** RDJ reads the waveforms, FX and track list from where
+> they sit in the Rekordbox window, and they only stay in the same place when the window is full screen.
+> If you move Rekordbox to another monitor, keep it full screen there, press REFRESH, draw the boxes and SAVE.
+> (The next RDJ update remembers the boxes for every monitor, so you only draw them once per monitor.)
 
 Rekordbox can be behind other windows, but not minimised.
 For gigs, USB tethering from the tablet is the most reliable connection.
 
 ## Needs
 
-- Windows 10 or 11, Rekordbox 7
+- Windows 10 or 11, Rekordbox 7 running **full screen**
 - Android 8 or newer tablet
 
 ## Privacy
